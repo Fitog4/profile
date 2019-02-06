@@ -1,0 +1,67 @@
+body {
+  background-image: url('https://assets.feed.co/img/_generics/pattern_update.jpg');
+  font-family: 'Open Sans', sans-serif;
+  color: #1C1D1A;
+  font-size: 15px;
+  line-height: 24px;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #1C1D1A;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: lighter;
+}
+
+h1 {
+  color: #1C1D1A;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a {
+  color: #42433E;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #787878;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.container {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.card {
+  margin: 30px 0px;
+  padding: 30px 15px;
+  background-color: white;
+  box-shadow: 1px 1px 1px 0px #42433E;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.text-align-left {
+  text-align: justify;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 15px;
+}
+
+.list-inline li p {
+  margin: 5px 0px 0px 0px;
+}
